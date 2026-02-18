@@ -7,4 +7,8 @@ The goal of this open-source community is to build a reference implementation fo
 
 ## Quick Start
 
-Have a look at the documentation at: [https://openautomateddriving.github.io](https://openautomateddriving.github.io)
+Have a look at the [documentation](https://openautomateddriving.github.io) to get started right away.
+
+## Roadmap
+
+Have a look at the [project roadmap](https://github.com/orgs/OpenAutomatedDriving/projects/1/views/2) to see what's planned next.
