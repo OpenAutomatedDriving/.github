@@ -10,7 +10,7 @@ Have a look at the [documentation](https://openautomateddriving.github.io) to ge
 
 ## Roadmap
 
-Have a look at the [project roadmap](https://github.com/orgs/OpenAutomatedDriving/projects/1/views/2) to see what's planned next.
+Have a look at the [project roadmap](https://github.com/orgs/OpenAutomatedDriving/projects/2/views/4) to see what's planned next.
 
 ## Discussions
 
