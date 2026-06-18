@@ -1,12 +1,8 @@
-The goal of this open-source community is to build a reference implementation for an OpenAutomated Drivign Stack (OADS). The following repositories are part of the community:
+The goal of this open-source community is to build reference implementations of Open Automated Driving Systems. The following projects are part of the community:
 
-| Repository | Description | Status |
-| ---------- | ----------- | ------ |
-| [openautomateddriving.github.io](https://github.com/OpenAutomatedDriving/openautomateddriving.github.io) | Documentation of the stack and toolchain, hosted as [GitHub Page](https://openautomateddriving.github.io) | 🚧 Under Construction |
-
-## Documentation
-
-Have a look at the [documentation](https://openautomateddriving.github.io) to get started right away.
+| Project | Description | Status |
+| ------- | ----------- | ------ |
+| [OpenADS](https://github.com/openads-project/) | The Open Automated Driving Systems Project | 🚧 Under Construction |
 
 ## Roadmap
 
@@ -14,4 +10,4 @@ Have a look at the [project roadmap](https://github.com/orgs/OpenAutomatedDrivin
 
 ## Discussions
 
-Feel free to [start a discussion](https://github.com/orgs/OpenAutomatedDriving/discussions) to engage with the community.
+Join our public Matrix.org chat server at [em40-public:matrix.org](https://matrix.to/#/#em40-public:matrix.org) to get in touch.
