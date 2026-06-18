@@ -1,4 +1,6 @@
-The goal of this open-source community is to build reference implementations of Open Automated Driving Systems. The following projects are part of the community:
+The goal of this open-source community is to build reference implementations for Open Automated Driving Systems. It is currently used by the *Automated Driving System Group* of the German [Ecosystem Mobility 4.0](https://ecosystemmobility40.de/en/) initiative.
+
+The following projects are part of the community:
 
 | Project | Description | Status |
 | ------- | ----------- | ------ |
